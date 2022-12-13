@@ -4,7 +4,7 @@
   "author": "qsniyg",
   "main": "dl.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.2",
     "xml2js": "^0.4.23",
     "xmldoc": "^1.1.2"
